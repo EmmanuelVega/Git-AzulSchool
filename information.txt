@@ -1,2 +1,3 @@
 Nombre: José Emmanuel Vega Ruiz
 Edad: 29 años
+Estatus: soltero
